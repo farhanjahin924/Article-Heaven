@@ -1,0 +1,122 @@
+[
+    {
+        "id": "1",
+        "cover": "https://i.ibb.co/qxjvMVZ/Gemini-Generated-Image.jpg",
+        "title": "10 Ways to Improve Your Productivity",
+        "author": "Jenny Sadre Orafai",
+        "author_img": "https://i.ibb.co/bmm3nG1/jenny-sadre-orafai.jpg",
+        "posted_date": "2024-03-26",
+        "hashtags": ["productivity", "tips", "self-improvement"],
+        "reading_time": 15
+    },
+    {
+        "id": "2",
+        "cover": "https://i.ibb.co/d5Y45YL/Gemini-Generated-Image-1.jpg",
+        "title": "The Art of Mindfulness",
+        "author": "Destiny O. Birdsong",
+        "author_img": "https://i.ibb.co/cLknwLp/destiny-o-birdsong.jpg",
+        "posted_date": "2024-03-25",
+        "hashtags": ["mindfulness", "meditation", "wellness"],
+        "reading_time": 20
+    },
+    {
+        "id": "3",
+        "cover": "https://i.ibb.co/3SncC24/Gemini-Generated-Image-2.jpg",
+        "title": "Exploring the Wonders of Nature",
+        "author": "Alex McElroy",
+        "author_img": "https://i.ibb.co/9hQ2K8W/Alex-Mc-Elroy-by-Grace-Rivera-819x1024.jpg",
+        "posted_date": "2024-03-24",
+        "hashtags": ["nature", "travel", "adventure"],
+        "reading_time": 25
+    },
+    {
+        "id": "4",
+        "cover": "https://i.ibb.co/9tr3vq8/Gemini-Generated-Image-3.jpg",
+        "title": "The Science Behind Happiness",
+        "author": "Malia Marquez",
+        "author_img": "https://i.ibb.co/0YkK3Qc/malia-marquez-1536x1024.jpg",
+        "posted_date": "2024-03-23",
+        "hashtags": ["happiness", "psychology", "wellbeing"],
+        "reading_time": 18
+    },
+    {
+        "id": "5",
+        "cover": "https://i.ibb.co/SVKXXKd/Gemini-Generated-Image-4.jpg",
+        "title": "Mastering the Art of Cooking",
+        "author": "Qian Julie Wang",
+        "author_img": "https://i.ibb.co/B2G5WKm/qian-julie-wang-1024x1024.jpg",
+        "posted_date": "2024-03-22",
+        "hashtags": ["cooking", "recipes", "food"],
+        "reading_time": 30
+    },
+    {
+        "id": "6",
+        "cover": "https://i.ibb.co/zXrMxcw/Gemini-Generated-Image-5.jpg",
+        "title": "The Power of Positive Thinking",
+        "author": "Rachel Krantz",
+        "author_img": "https://i.ibb.co/Swn8TBs/Rachel-Krantz-Headshot1of1-684x1024.jpg",
+        "posted_date": "2024-03-21",
+        "hashtags": ["positivity", "self-help", "mindset"],
+        "reading_time": 22
+    },
+    {
+        "id": "7",
+        "cover": "https://i.ibb.co/9pHdZQL/Gemini-Generated-Image-7.jpg",
+        "title": "Unlocking Creativity: Tips for Artists",
+        "author": "Jennifer Savran Kelly",
+        "author_img": "https://i.ibb.co/bzQfXjK/jennifer-savran-kelly.jpg",
+        "posted_date": "2024-03-20",
+        "hashtags": ["creativity", "art", "inspiration"],
+        "reading_time": 28
+    },
+    {
+        "id": "8",
+        "cover": "https://i.ibb.co/HgbQR9H/Gemini-Generated-Image-9.jpg",
+        "title": "Traveling on a Budget: Top Destinations",
+        "author": "Jen Winston",
+        "author_img": "https://i.ibb.co/dmPKvHL/jen-winston-768x1024.jpg",
+        "posted_date": "2024-03-19",
+        "hashtags": ["travel", "budgettravel", "vacation"],
+        "reading_time": 35
+    },
+    {
+        "id": "9",
+        "cover": "https://i.ibb.co/C1LGQVY/images.jpg",
+        "title": "The Importance of Regular Exercise",
+        "author": "Amy Clark",
+        "author_img": "https://i.ibb.co/6Znbzhc/amy-clark.jpg",
+        "posted_date": "2024-03-18",
+        "hashtags": ["fitness", "exercise", "health"],
+        "reading_time": 17
+    },
+    {
+        "id": "10",
+        "cover": "https://i.ibb.co/h8qsKbL/Gemini-Generated-Image-10.jpg",
+        "title": "Learning a New Language: Tips and Tricks",
+        "author": "Courtney Maum",
+        "author_img": "https://i.ibb.co/YbrmSMZ/courtney-maum.jpg",
+        "posted_date": "2024-03-17",
+        "hashtags": ["language", "learning", "education"],
+        "reading_time": 23
+    },
+    {
+        "id": "11",
+        "cover": "https://i.ibb.co/CP66k4f/Gemini-Generated-Image-11.jpg",
+        "title": "10 Essential Books Every Reader Should Read",
+        "author": "Lincoln Michel",
+        "author_img": "https://i.ibb.co/t22J6Gw/lincoln-michel.jpg",
+        "posted_date": "2024-03-16",
+        "hashtags": ["books", "reading", "literature"],
+        "reading_time": 19
+    },
+    {
+        "id": "12",
+        "cover": "https://i.ibb.co/n3jnYQm/imgonline-com-ua-resize-dk0y-TRzn-XEoe-WH.jpg",
+        "title": "The Benefits of Yoga for Mental Health",
+        "author": "Colleen Hubbard",
+        "author_img": "https://i.ibb.co/k2BgWQc/colleen-hubbard.jpg",
+        "posted_date": "2024-03-15",
+        "hashtags": ["yoga", "mentalhealth", "wellness"],
+        "reading_time": 26
+    }
+]
